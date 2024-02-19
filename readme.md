@@ -69,7 +69,7 @@ I am really enthusiastic about learning new technology. In 2020, I learned **Nex
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adamlim2023@gmail.com)
 <!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://app.enhancv.com/share/f933e6de/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic) -->
 [![telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=red)](https://t.me/adamlim1211)
-[![discord](https://img.shields.io/badge/Discord-4285F4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/E9yUFZv8H7)
+[![discord](https://img.shields.io/badge/Discord-4285F4?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6rGK3pJSS7)
 <!-- [![upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c12e516ee1d35044)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/ruppysuppy)
